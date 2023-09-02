@@ -1,3 +1,14 @@
+# Helix.wasm
+
+Helix.wasm is a pure Webassembly / Javascript port of Helix.
+
+[![Build](https://github.com/TaKO8Ki/helix.wasm/actions/workflows/build.yml/badge.svg)](https://github.com/TaKO8Ki/helix.wam/actions)
+
+## License
+All additional files in this repository are licensed under the same license as Helix (MPL-2.0 license). Please see [here](https://github.com/helix-editor/helix/blob/master/LICENSE) for more detail.
+
+Original README is following.
+
 <div align="center">
 
 <h1>
