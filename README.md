@@ -1,3 +1,10 @@
+# Helix.wasm
+
+## License
+All additional files in this repository are licensed under the same license as Helix (MPL-2.0 license). Please see [here](https://github.com/helix-editor/helix/blob/master/LICENSE) for more detail.
+
+Original README is following.
+
 <div align="center">
 
 <h1>
